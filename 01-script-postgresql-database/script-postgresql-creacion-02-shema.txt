@@ -1,0 +1,1 @@
+CREATE SCHEMA schema_sys_demo_wigilabs AUTHORIZATION postgres;

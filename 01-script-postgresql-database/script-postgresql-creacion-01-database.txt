@@ -1,0 +1,6 @@
+CREATE DATABASE bd_sys_demo_wigilabs WITH 
+OWNER = postgres 
+ENCODING = 'UTF8';
+
+GRANT ALL ON DATABASE bd_sys_demo_wigilabs TO public;
+GRANT ALL ON DATABASE bd_sys_demo_wigilabs TO postgres;

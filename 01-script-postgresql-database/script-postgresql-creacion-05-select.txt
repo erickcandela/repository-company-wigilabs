@@ -1,0 +1,1 @@
+select * from schema_sys_demo_wigilabs.tb_mae_cat_peli;

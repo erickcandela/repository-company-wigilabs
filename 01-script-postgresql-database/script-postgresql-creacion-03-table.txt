@@ -1,0 +1,10 @@
+CREATE TABLE schema_sys_demo_wigilabs.tb_mae_cat_peli (
+	pelicula_id SERiAL PRIMARY KEY,
+	codigo VARCHAR ( 50 ),
+	nombre VARCHAR ( 50 ),
+	descripcion VARCHAR ( 250 ),
+	usuario_creacion_fecha TIMESTAMP,
+	usuario_creacion_ip VARCHAR ( 20 ),
+	usuario_creacion_nombre VARCHAR ( 250 ),
+	estado VARCHAR ( 1 )
+);
